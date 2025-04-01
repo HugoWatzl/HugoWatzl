@@ -35,7 +35,7 @@ Me chamo Hugo Farias Watzl Barreto, tenho 20 anos. Minha jornada acadêmica come
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-8B4513?style=for-the-badge&logo=java&logoColor=white">
+
 
 </div>
 
