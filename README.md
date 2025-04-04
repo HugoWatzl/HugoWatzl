@@ -13,7 +13,6 @@ Me chamo Hugo Farias Watzl Barreto, tenho 20 anos. Minha jornada acadêmica come
 
 ## 🌐 Entre em contato
 <div align="left">
-  <img align="right" alt="" height="190px" src="./src/study.gif">
   <a href="https://www.linkedin.com/in/Hugo-Watzl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:hugofariaswatzl@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/hugowatzl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -67,3 +66,10 @@ Me chamo Hugo Farias Watzl Barreto, tenho 20 anos. Minha jornada acadêmica come
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HugoWatzl&bg_color=0d1117&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HugoWatzl/HugoWatzl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HugoWatzl/HugoWatzl/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HugoWatzl/HugoWatzl/output/github-contribution-grid-snake.svg">
+</picture>
