@@ -7,7 +7,7 @@
 </div>
 
 
-**`Estudante de engenharia de software na IBMEC`**
+**`Estudante de engenharia de software no IBMEC`**
 
 Me chamo Hugo Farias Watzl Barreto, tenho 20 anos. Minha jornada acadêmica começou no Notre Dame (ensino fundamental) e seguiu no Colégio de AAZ (ensino médio). Atualmente, estou no 4º período de Engenharia de Software no Ibmec, onde sigo me preparando para ingressar no mercado de tecnologia e aplicar as habilidades que venho desenvolvendo.
 
